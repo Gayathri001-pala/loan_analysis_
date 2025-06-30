@@ -64,7 +64,7 @@ https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_data.zip
 https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_analysis-images-0.jpg
 
 ### 📌 Applicant Demographics & Financial Profile  
-![Applicant Demographics & Financial Profile](images/page2.png)
+https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_analysis-images-1.jpg
 
 ### 📌 Financial Risk Matrix  
 ![Financial Risk Matrix](images/page3.png)

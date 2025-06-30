@@ -1,5 +1,7 @@
 # 💳 Loan Default & Financial Overview – Power BI Dashboard
 
+This Power BI report analyzes loan applications by status, customer type, and claim amounts. It highlights key trends such as high rejection rates and the highest claim amounts coming from adult customers, supporting better decision-making in loan approvals.
+
 ## 📌 Title  
 **Loan Default & Financial Overview using Power BI**
 

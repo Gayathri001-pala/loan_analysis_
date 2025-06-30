@@ -21,8 +21,9 @@ This project helps financial institutions:
 - **Source**: Excel file containing applicant demographics and loan details  
 - **Data Storage**: Imported into **Microsoft SQL Server**  
 - **Data Transformation**: Done using **Power BI Services – Dataflow Gen1**  
-- **Data Connection**: Connected to Power BI Desktop via **Standard Gateway** for secure and scheduled refresh  
-
+- **Data Connection**: Connected to Power BI Desktop via **Standard Gateway** for secure and scheduled refresh
+    
+https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_data.zip
 ---
 
 ## 🛠 Tools & Technologies Used

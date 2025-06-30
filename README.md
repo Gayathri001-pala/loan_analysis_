@@ -106,7 +106,7 @@ It can help banks and financial institutions make data-driven, profitable decisi
 📁 **Power BI File Available in Repository**  
 - File Name: `Loan_Default_Analysis.pbix`  
 - Open with **Power BI Desktop** to explore the dashboard interactively
-
+https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_analysis.pbit
 ---
 
 ## 📌 How I Built This
@@ -122,5 +122,5 @@ It can help banks and financial institutions make data-driven, profitable decisi
 ## ✨ Contact
 
 📧 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pala-gayathri/)  
-📂 Portfolio and other projects on: [GitHub Profile](https://github.com/your-username)
+📂 Portfolio and other projects on: 
 

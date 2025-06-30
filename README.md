@@ -22,7 +22,6 @@ This project helps financial institutions:
 - **Data Storage**: Imported into **Microsoft SQL Server**  
 - **Data Transformation**: Done using **Power BI Services – Dataflow Gen1**  
 - **Data Connection**: Connected to Power BI Desktop via **Standard Gateway** for secure and scheduled refresh
-    
 https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_data.zip
 ---
 
@@ -62,7 +61,7 @@ https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_data.zip
 ## 📷 Dashboard Images
 
 ### 📌 Loan Default & Overview  
-![Loan Default & Overview](images/page1.png)
+https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_analysis-images-0.jpg
 
 ### 📌 Applicant Demographics & Financial Profile  
 ![Applicant Demographics & Financial Profile](images/page2.png)

@@ -122,5 +122,5 @@ https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_analysis.pbit
 ## ✨ Contact
 
 📧 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pala-gayathri/)  
-📂 Portfolio and other projects on: 
+📂 Portfolio and other projects on: https://github.com/Gayathri001-pala
 

@@ -67,9 +67,9 @@ https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_analysis-image
 https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_analysis-images-1.jpg
 
 ### 📌 Financial Risk Matrix  
-![Financial Risk Matrix](images/page3.png)
+https://github.com/Gayathri001-pala/loan_analysis_/blob/main/loan_analysis-images-2.jpg
 
-> ⚠️ *Upload your screenshots to the `images` folder in your repo and replace these links accordingly.*
+
 
 ---
 
